@@ -22,3 +22,8 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 socialy-*.tar
 
+# Some local files used during development
+.nvimlog
+Makefile
+
+
