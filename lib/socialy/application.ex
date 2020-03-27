@@ -7,8 +7,7 @@ defmodule Socialy.Application do
 
   def start(_type, _args) do
     children = [
-      # Starts a worker by calling: Socialy.Worker.start_link(arg)
-      # {Socialy.Worker, arg}
+       Socialy.Server
     ]
 
     # See https://hexdocs.pm/elixir/Supervisor.html
