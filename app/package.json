@@ -1,0 +1,24 @@
+{
+  "name": "@socialy/web",
+  "version": "1.0.0",
+  "description": "The web interface to the socialy platform",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha lib/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SocialyOrg/Socialy.git"
+  },
+  "keywords": [
+    "social-network",
+    "application",
+    "website"
+  ],
+  "author": "Sam Vervaeck <vervaeck.sam@kynet.be>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SocialyOrg/Socialy/issues"
+  },
+  "homepage": "https://github.com/SocialyOrg/Socialy#readme"
+}
