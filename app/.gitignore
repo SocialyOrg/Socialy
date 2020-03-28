@@ -1,0 +1,8 @@
+
+# parcel
+.cache/
+/dist/
+
+# npm
+node_modules/
+

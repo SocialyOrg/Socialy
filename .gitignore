@@ -25,8 +25,3 @@ socialy-*.tar
 # Some local files used during development
 .nvimlog
 Makefile
-
-# Ignore modules installed by npm
-node_modules/
-
-
