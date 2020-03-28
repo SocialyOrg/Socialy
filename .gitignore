@@ -26,4 +26,7 @@ socialy-*.tar
 .nvimlog
 Makefile
 
+# Ignore modules installed by npm
+node_modules/
+
 
