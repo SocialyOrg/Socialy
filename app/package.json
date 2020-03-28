@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/SocialyOrg/Socialy/issues"
   },
-  "homepage": "https://github.com/SocialyOrg/Socialy#readme"
+  "homepage": "https://github.com/SocialyOrg/Socialy#readme",
+  "dependencies": {
+    "@types/react": "^16.9.26",
+    "@types/react-dom": "^16.9.5",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
